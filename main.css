@@ -41,16 +41,7 @@ a, a:visited {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* width: 100%; */
-}
-
-.picture-wrapper img {
-    max-height: 300px;
-}
-
-.picture-wrapper a {
-    display: flex;
-    height: 100%;
+    width: 100%;
 }
 
 /* mobile adjustments */
